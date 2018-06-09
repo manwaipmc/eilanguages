@@ -2,10 +2,10 @@
 
 // app/messages/en.php
 $messages = [
-	"header" => "簡単にと安全に自分のエイゴモンスターアカウントを作成する.",
-    "moreinfo" => "詳しいはこちら。。。",
+	"header" => "簡単で安全に自分のエイゴモンスターアカウントを作成する.",
+    "moreinfo" => "詳しくはこちら。。。",
 	"signin" => "サインイン",
-	"subtext" => "エイゴモンスターは先生のディジタル味噌汁！",
+	"subtext" => "エイゴモンスターは先生のデジタルな甘い蜜！",
     "register_text"    => "登録",
 	"logintagline"     => "アカウントを作成してください",
 	"password"     => "あなたのエイゴモンスターのアカウントにログイン",
@@ -26,7 +26,7 @@ $messages = [
 	"valid_req" => "メールの確認が必要です",
 	"valid_req_msg" =>"あなたの電子メールにピンコードが送信されました",
 	"reg_complete" => "登録完了です。",
-	"reg_complete_msg" =>"これから頑張ろ！",
+	"reg_complete_msg" =>"これから頑張りましょう！",
 	"valid_err" => "エラー",
 	"valid_err_msg" => "入力された情報は確認できません。",
 	"next_step" => "次へ",

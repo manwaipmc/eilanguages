@@ -31,7 +31,7 @@ $messages = [
 "update_head_sub" => "<small> keepin' it <strong>real</strong>, like it should be.</small>",
 
 "create_head" => "教材を作成",
-"create_head_txt" => "新しい教材の情報を入力してください。教材作成ときは教材の種類を混ぜてないでください。例えばフラシュカードとワークシートがあれば２つのセットを作成してください。そうすると検索のことが簡単になります。",
+"create_head_txt" => "新しい教材の情報を入力してください。教材作成ときは教材の種類を混ぜてないでください。例えばフラシュカードとワークシートがあれば２つのセットを作成してください。そうすると検索が簡単になります。",
 "create_head_sub" => "<small> - make learning <strong>fun</strong> with creative materials.</small>",
 
 "overview" => "教材の詳細",
@@ -117,7 +117,7 @@ $messages = [
 "plan_comment" => "投稿する",
 "add_materials"=> "教材を追加",
 "add_lessonplan" => "プランを追加",
-"poster_placeholder" => "マジカルマテリアルズをいっぱい振りかけるてください!",
+"poster_placeholder" => "マジカルマテリアルズをいっぱい振りかけてください!",
 "edit_material_info" => "教材セットの情報を編集する",
 "posted_status" => "が投稿した",
 "suggested_label" => "おすすめ！",

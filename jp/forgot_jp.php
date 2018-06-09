@@ -3,9 +3,9 @@
 // app/messages/en.php
 $messages = [
 	"header" => "パスワードを忘れました？しょうがないね！パスワードをリセットしましょう！",
-    "moreinfo" => "詳しいはこちら。。。",
+    "moreinfo" => "詳しくはこちら。。。",
 	"signin" => "サインイン",
-	"subtext" => "エイゴモンスターは先生のディジタル味噌汁！",
+	"subtext" => "エイゴモンスターは先生のデジタルな甘い蜜！",
     "register_text"    => "登録",
 	"request_reset"    => "パスワードリセットを要求する",
 	"logintagline"     => "アカウントを作成してください",
