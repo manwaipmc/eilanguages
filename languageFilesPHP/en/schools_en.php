@@ -71,14 +71,14 @@ $messages =[
 "faxno_help" => "Some schools prefer to get things by fax. Supply a fax number for easy faxing.",
 "email_help" => "This is an important address! It is where your lesson plans get sent to. You can also just specify your company email address here to have them sent to your branch office.",
 "t_books_help" => "What text books does your school use? We can suggest lesson plans for you based on the books you use.",
-"c_room_help" => "What resources does your school have for teaching English? Make sure you can teach the lesson plans  you find on Eigomonster",
+"c_room_help" => "What resources does your school have for teaching English? Make sure you can teach the lesson plans you find on Eigomonster",
 "s_have_help" => "What resources do your students have access to?",
 "sch_desc_p" => "Notes about the school.",
 "japanese_name_p" => "e.g.北海道札幌南高等学校",
 "save_as_new" => "save new",
 "add_new" => "add new",
 "save" => "save",
-"add_new_warning"=>"your school has been saved. If you want to add a new school please use this button. Changing the data below will change the details for this school.",
+"add_new_warning"=>"Your school has been saved. If you want to add a new school please use this button. Changing the data below will change the details for this school.",
 "save_school" => "save school",
 "add_new_school" => "add new school"
 
