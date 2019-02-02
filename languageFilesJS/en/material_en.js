@@ -1,0 +1,50 @@
+// JavaScript Document
+
+var res = {
+    materialTourTitle : "Materials",
+    materialTourContent : "As you add materials to your profile they will be listed here.",
+	materialAddTitle : "Add",
+	materialAddContent : "You can add new materials by clicking this button.",
+	materialSearchTitle : "Search",
+    materialSearchContent : "Stuck for ideas? Search for materials here.",
+	materialFormTitle : "Materials Data",
+    materialFormContent : "Add information about your materials here. You will be able ot upload materials on the next page.", materialManageTitle : "Manage Materials",
+    materialManageContent : "You can use this form to create or edit a set of materials. Simply fill in all the details here.",
+	materialSaveTitle : "Save Materials",
+    materialSaveContent : "Click save when you are ready to move onto the next stage which is uploading materials.",
+	MAT_SAVED : "Your materials have been saved.",
+	MAT_ERROR : "There was an error processing your request.",
+	MAT_DATA_ERROR : "Your data was not sent to the server",
+    MAT_PTS_EARN: "Points Earned",
+	MAT_SAVE_STATUS : "Save Status",	
+	MAT_TOAST_BEFORE :"You have earned <strong>",
+	MAT_TOAST_AFTER : "</strong> points",
+	MAT_DEL_CONFIRM: "Do you want to delete this item?",
+	MAT_DELETE: "Item deleted from material set",
+	MAT_DELETE_ERROR: "There was an error deleting this item. Try again please.",
+	MAT_DELETE_STATUS: "Item Deletion Status",
+	MAT_REP_COMM:"Roger That! Reply has been added.",
+	MAT_REP_COMM_STATUS: "Reply to Comment",
+	MAT_REP_COMM_ERROR: "There was an error adding your reply. Try again please.",
+	MAT_PLAN_STATUS :"Material Update",
+	MAT_PLAN :"Your material has been updated successfully!",
+	MAT_PLAN_ERROR : "There was an error updating your lesson. Try again please",
+	MAT_COMM_STATUS : "Comment on Material",
+	MAT_COMM : "Roger That! Comment has been added.",
+	MAT_COMM_ERROR : "There was an error adding your comment. Try again please",
+	MAT_LIKE : "Like Status",
+	MAT_LIKE_ERROR :"There was an error processing your request" ,
+	MAT_LIKE_STATUS : "Your like has been saved",
+	MAT_COM_DEL : "Your comment has been deleted.",
+	MAT_COM_DEL_STATUS : "Delete Status",
+	MAT_COM_DEL_ERROR : "There was an error processing your request.",
+	MAT_COM_DEL_CON :"Do you want to delete this comment?",
+	MAT_ADD_CON : "Your contact has been added" ,
+	MAT_ADD_CON_STATUS : "Add Contact Status",
+	MAT_ADD_CON_ERROR : "There was an error processing your request.",
+	
+	
+	
+
+};
+
