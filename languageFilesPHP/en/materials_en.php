@@ -71,7 +71,7 @@ $messages = [
 "mod_type_help" => "What type of material are you uploading?",
 
 "dropzone_title" => "Drag and Drop Area",
-"dropzone_up_file_instructions" => "You can drag and dropfiles from your computer to this area or simply click below to do it the old fashioned way.",
+"dropzone_up_file_instructions" => "You can drag and drop files from your computer to this area or simply click below to do it the old fashioned way.",//Added space to dropfiles
 "dropzone_up_info"  => "These are the files that have been uploaded",
 "dropzone_up_file_name" => "Filename",
 "dropzone_up_file_size" => "Filesize",
