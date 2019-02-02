@@ -1,7 +1,7 @@
 // JavaScript Document
 
 var res = {
-    SJ_SAVED : "Your subjec has been saved.",
+    SJ_SAVED : "Your subject has been saved.",//subjec changed to subject
 	SJ_ERROR : "There was an error processing your request.",
     SJ_PTS_EARN: "Points Earned",
 	SJ_SAVE_STATUS : "Save Status",	
