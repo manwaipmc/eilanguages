@@ -74,7 +74,7 @@ $messages = [
 "t_res" => "Teaching Resources",
 "res_explain" => "Not all schools have the same resources. When you find a lesson plan, you may need specific resources available in order to be able to teach that lesson plan. This section will ensure we know what will work and what won't work at your school.",
 "t_books" => "Text Books",
-"c_room" => "School has",
+"c_room" => "Things the school has",//Changed from school has to Things the school has
 "s_have" => "Students have access to",
 
 "cl_level"=>"Teaching level of this class.",
