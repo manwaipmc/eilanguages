@@ -22,7 +22,7 @@ $messages = [
 "pan1_cnt_head" =>"Activities",
 "pan1_cnt_sub" =>"Added to your account.",
 
-"pan2_cnt_head" =>"Lessn Plans",
+"pan2_cnt_head" =>"Lesson Plans",//Changed Lessn to Lesson
 "pan2_cnt_sub" =>"That have no activities.",
 "psel" => "Please Select...",
 "button" =>"add a new activity",
@@ -141,7 +141,7 @@ $messages = [
 "edit_step_text"=>"You can edit this step by changing the details below.",
 "close"=>"close",
 "save"=>"save",
-"no_records_found"=>" no records found",
+"no_records_found"=>"no records found",//Deleted extra space
 "no_objectives_added" => "no objectives added",
 "suggest" => "suggest",
 "delete"=>"reply",
