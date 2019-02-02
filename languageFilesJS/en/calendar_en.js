@@ -2,7 +2,7 @@
 
 var res = {
     calendarTourTitle : "Schedule",
-    calendarTourContent : "This is your teaching schedule and it contains an over view of what you will be teaching over the course of the year.",
+    calendarTourContent : "This is your teaching schedule and it contains an overview of what you will be teaching over the course of the year.",//over view combined to one word
 	calendarNavigateTitle : "Previous",
 	calendarNavigateContent : "Use these to change the view. Click _Day_ when you want to add a new class to a specific time.",
 	calendarSideTitle : "Classes",
