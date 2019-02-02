@@ -28,7 +28,7 @@ var res = {
 	INS_PLAN_COPY_ERROR : "There was an error processing your request",
 	INS_PLAN_COPY_STATUS :"Copy Status",
 	INS_COPY_TEXT : "Copy to clipboard: Ctrl+C / Cmd + C, Enter",
-	INS_MAT_COPY_SAVE :"Your naterial set has been copied",
+	INS_MAT_COPY_SAVE :"Your material set has been copied",//naterial changed changed to material
 	INS_MAT_COPY_ERROR : "There was an error processing your request",
 	INS_MAT_COPY_STATUS :"Copy Status",
 	INS_ACT_COPY_SAVE :"Your activity has been copied",
