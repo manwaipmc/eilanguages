@@ -6,7 +6,7 @@
 $messages = [
 "page_title" => "Manage Schedule",
 "your_schedule" => "your schedule",
-"your_schedule_sub" => "From here you can manage where and when you are teaching. Simply drag classes from the left hand panel into the calendar. You can switch between day and time to view a more precise time line.",
+"your_schedule_sub" => "From here you can manage where and when you are teaching. Simply drag classes from the left side panel into the calendar. You can switch between day and time to view a more precise time line.",
 "add_event" => "add event...",
 "drag_events" => "Drag Events to Calendar Dates",
 "manage_class" => "manage a class",
@@ -35,7 +35,7 @@ $messages = [
 "psel" => "please select",
 "no_lesson_plan" => "There is currently no lesson plan for this lesson. Please add one.",
 "no_theme_assigned" => "Please add a theme to this lesson. This will help us find lesson plans for you.",
-"no_contributors" => "there are no contributors to help you plan. add a few to help the lesson planning process.",
+"no_contributors" => "There are no contributors to help you plan. Add a few to help the lesson planning process.",
 "no_theme_added" => "What you are teaching is important. Add a lesson plan theme to help you as you decide on the contents of your lesson.",
 "add_activity_sub" => "You can suggest an activity to help with the planning process. Select one from your activities and hit save.",
 "mod_close" => "close",
@@ -49,15 +49,15 @@ $messages = [
 "class_rating" => "class rating",
 "materials" => "materials",
 "no_data_found" => "We were not able to find any data for your search. Have you updated your schedule lately?",
-"click_to_change" => "click to change date range",
+"click_to_change" => "Click to change date range",
 "rating_on_or_off" => "If you do not want the system to calculate the rating you can turn this off.",
 "sch_tags" => "Schedule Tags",
 "sch_tags_help" => "You can add tags to this to help you summarize your class.",
-"no_activities_added" => "no activities added to this section",
-"add_plan_sub" => "Add a plan to this lesson so that we can help you create a great learning experience for your students on this day.",
+"no_activities_added" => "No activities added to this section",
+"add_plan_sub" => "Add a plan to this lesson so that we can help you create a great learning experience for your students.",
 "select_plan" => "Select a plan ",
-"lp_subj" => "教科",
-"search" => "search",
+"lp_subj" => "Subjects",
+"search" => "Search",
 
 
 ];
