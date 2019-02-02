@@ -11,7 +11,7 @@ var res = {
 	INX_NOT_STATUS : "Notifications Status",
 	//Invitations
 	INX_INV_SENT : "Bon Voyage! Your invitation has been sent.",
-	INX_INV_ERROR : "There was an error sending your inviation. Try again please.",
+	INX_INV_ERROR : "There was an error sending your invitation. Try again please.",//inviation changed to invitation
 	INX_INV_STATUS : "Send Invitation",
     INX_PTS_EARN: "Points Earned",
 	INX_SAVE_STATUS : "Save Status",	
