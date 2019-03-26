@@ -100,7 +100,6 @@ $messages = [
 "redeem_point" => "Redeem Points",
 "kakunin_kodo" => "please enter your code...",
 "disk_space" => "disk space",
-"" => "",
 
 
 

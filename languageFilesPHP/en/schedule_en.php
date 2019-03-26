@@ -57,8 +57,24 @@ $messages = [
 "add_plan_sub" => "Add a plan to this lesson so that we can help you create a great learning experience for your students.",
 "select_plan" => "Select a plan ",
 "lp_subj" => "Subjects",
-"search" => "Search",
-
+"repeating_info" => "Repeat this lesson multple times up to one year in advance",
+"frequency" => "frequency",
+"weekly" => "weekly",
+"biweekly" => "bi-weekly",
+"twoweeks" => "two weeks",
+"threemonth" => "quarterly",
+"halfyear" => "haly year",
+"monthly" => "monthly",
+"schedule_ahead" => "auto schedule",
+"onemonth" => "one month",
+"oneyear" => "one year",
+"occurences" => "times",
+"auto_schedule" => "auto schedule",
+"planning"=>"planning",
+"evaluation"=>"evaluation",
+"occurs"=>"occurs",
+"repeating_edit_info"=>"You can edit the details on this page but there is no undo function.",
+"del_all"=>"delete series",
 
 ];
 

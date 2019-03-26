@@ -54,13 +54,6 @@ $messages = [
 "cl_nickname_p"=>"Titans of Terror",
 
 "step2_explain" => "When you create a lesson plan and send it to the school, we will ensure that it has the right information on it for you. Please be sure to fill in this form so that the right teacher gets the lesson plans.",
-"title" => "Title:",
-"first_name" => "First Name:",
-"last_name" => "Last Name:",
-"gender" => "Gender",
-"email" => "Email Address:",
-"notes" => "Notes about this teacher:",
-
 
 "next" => "Next",
 "previous" => "Previous",
